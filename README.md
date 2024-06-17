@@ -26,7 +26,7 @@
       "password": "password"
   }
 
-  Fetch User
+ ### Fetch User
 - **URL**: `/api/user/fetch`
 - **Method**: `GET`
 - **Query Parameter**: `username`
