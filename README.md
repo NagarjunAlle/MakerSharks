@@ -25,3 +25,10 @@
       "email": "john@example.com",
       "password": "password"
   }
+
+  Fetch User
+- **URL**: `/api/user/fetch`
+- **Method**: `GET`
+- **Query Parameter**: `username`
+  http://localhost:8080/api/user/fetch?username=john
+
